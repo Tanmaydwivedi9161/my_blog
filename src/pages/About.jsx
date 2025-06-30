@@ -65,7 +65,7 @@ function About() {
             <p>
               Explore more of my work on these platforms:
               <br />
-              👉 <a href="https://tanmaydwivedi9161.github.io/TanmayPortfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              👉 <a href="https://tanmay-portfolio-vert.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
               <br /> 
             </p>
           </section>
