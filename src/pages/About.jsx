@@ -65,13 +65,8 @@ function About() {
             <p>
               Explore more of my work on these platforms:
               <br />
-              👉 <a href="https://tanmaydwivedi.ccbp.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-              <br />
-              👉 <a href="https://www.gurugyaan.com" target="_blank" rel="noopener noreferrer">GuruGyaan</a>
-              <br />
-              👉 <a href="https://www.razertechlabs.com" target="_blank" rel="noopener noreferrer">RazerTechLabs</a>
-            
-              
+              👉 <a href="https://tanmaydwivedi9161.github.io/TanmayPortfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              <br /> 
             </p>
           </section>
 
