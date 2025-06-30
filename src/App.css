@@ -1,0 +1,157 @@
+@import "tailwindcss";
+.logo-heading{
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+}
+.about-page {
+    background-color: #000;
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .about-container h2 {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    color: #444;
+  }
+  
+  .about-container p,
+  .about-container ul {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .about-container ul {
+    padding-left: 20px;
+  }
+  
+  .about-container a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .about-container a:hover {
+    text-decoration: underline;
+  }
+  
+  .thanks {
+    margin-top: 40px;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+ .black{
+  background-color: #000;
+  
+ }
+/* CONTACTPAGE CSS */
+
+.contact-page {
+    background-color: #000;
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-container h1 {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .contact-container p {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #666;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 6px;
+    color: #444;
+    font-weight: bold;
+  }
+  
+  input,
+  textarea {
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+  }
+  
+  button {
+    padding: 12px;
+    background-color: #007acc;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
+  
+
+
+  /* BLOG CSS */
+
+  .code-block {
+    background-color: #1e1e1e;
+    color: #c5f29e;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin-bottom: 30px;
+  }
+  
+  .blog-img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+  
+  #style{
+    color: blue !important;
+  }
