@@ -4,7 +4,7 @@ import {createBrowserRouter,RouterProvider } from 'react-router'
 import Home from './pages/Home'
 import About from './pages/About'
 import Contact from './pages/Contact'
-import FolderLockBlog from './blogpages/Folderlockblog'
+import FolderLockBlog from './blogpages/FolderLockBlog'
 import PythonNotRecognizedBlog from './blogpages/PythonNotRecognizedBlog'
 
 import SaveAndOpenLinkBlog from './blogpages/SaveAndOpenLinksBlog'
